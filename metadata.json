@@ -1,0 +1,6 @@
+{
+  "name": "IoT Panel MQTT",
+  "description": "IoT smart home single-page dashboard for 4 relays and DHT11 via MQTT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
